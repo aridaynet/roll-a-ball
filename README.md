@@ -19,7 +19,7 @@ Salir: Salimos del juego.
 
 ## Requisitos
 
-Para poder utilziar este este proyecto debes tener instalado Unity
+Para poder utilizar este este proyecto debes tener instalado Unity
   ```bash
   https://store.unity.com/es#plans-individual
   ```
@@ -40,7 +40,7 @@ Aquí tenemos el juego. El objetivo es pillar todos los cuadrados, una vez el co
 
 ## Parte 2: Opciones
 
-<img src="img/Opciones" width="400"/>
+<img src="img/Opciones.png" width="400"/>
 
 Aquí se mostrar las opciones de juego para poder jugarlo.
 

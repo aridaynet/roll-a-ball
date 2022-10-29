@@ -18,7 +18,7 @@ Options: Clicking here, we will see the usability of the game.
 
 ## Requirements
 
-To be able to use this this project you must have Unity installed
+To be able to use this project you must have Unity installed
 
   ```bash
   https://store.unity.com/es#plans-individual
@@ -42,7 +42,7 @@ Here we have the game. The objective is to catch all the squares, once the count
 
 ## Part 2: Options
 
-<img src="img/Opciones" width="400"/>
+<img src="img/Opciones.png" width="400"/>
 
 Here the game options will be shown to be able to play it.
 
