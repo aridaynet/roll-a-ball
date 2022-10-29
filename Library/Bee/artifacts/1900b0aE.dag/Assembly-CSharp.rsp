@@ -361,6 +361,7 @@
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerController2.cs"
 "Assets/Scripts/Rotator.cs"
 -langversion:9.0
 

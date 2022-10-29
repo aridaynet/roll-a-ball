@@ -40,6 +40,7 @@ public class PlayerController : MonoBehaviour {
 		Vector3 movement = new Vector3 (movementX, movementJump, movementY);
 
 		rb.AddForce (movement * speed);
+		movementJump = 0;
 	}
 
 	void OnTriggerEnter(Collider other) 
@@ -55,12 +56,13 @@ public class PlayerController : MonoBehaviour {
 			// Run the 'SetCountText()' function (see below)
 			SetCountText ();
 		}
+
 	}
 
-	/*private void changeScene()
+	private void changeScene()
 	{
-		SceneManager.LoadScene("OtherScene");
-	}*/
+		SceneManager.LoadScene("MiniGame2");
+	}
 
         void OnMove(InputValue value)
         {
@@ -74,7 +76,7 @@ public class PlayerController : MonoBehaviour {
 	{
 		if(transform.position.y <= .5)
 		{
-			movementJump = 10f;
+			movementJump = 35f;
 		}
 	}
 
@@ -86,6 +88,8 @@ public class PlayerController : MonoBehaviour {
 		{
                     // Set the text value of your 'winText'
                     winTextObject.SetActive(true);
+							changeScene();
+
 		}
 	}
 }
