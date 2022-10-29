@@ -88,7 +88,7 @@ ScriptsOnlyBuild:
     methodName: CargarNivel
   - assembly: Assembly-CSharp
     fullTypeName: MainMenu
-    methodName: EscenaMenu
+    methodName: Salir
   - assembly: Assembly-CSharp
     fullTypeName: MainMenu
     methodName: EscenaMenu
@@ -97,7 +97,19 @@ ScriptsOnlyBuild:
     methodName: EscenaMenu
   - assembly: Assembly-CSharp
     fullTypeName: MainMenu
+    methodName: Salir
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: Salir
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
     methodName: EscenaMenu
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: EscenaMenu
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: Salir
   sceneClasses:
     Assets/Scenes/Final.unity:
     - Class: 1
