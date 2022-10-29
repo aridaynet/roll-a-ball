@@ -10,12 +10,12 @@ Salir: Salimos del juego.
 > Nota: Proyecto de Unity
 
 ### Roll a Ball Tutorial
-  - [Requisitos](#requirements)
-  - [Parte 0: Menu](#part-0)
-  - [Parte 1: Mini Game](#part-1)
-  - [Parte 2: Opciones](#part-2)
-  - [Parte 3: Salir](#part-3)
-  - [Parte 4: Botones](#part-4)
+  - [Requisitos](#Requisitos)
+  - [Parte 0: Menu](#Parte 0: Menu)
+  - [Parte 1: Mini Game](#Parte 1: Mini Game)
+  - [Parte 2: Opciones](#Parte 2: Opciones)
+  - [Parte 3: Salir](#Parte 3: Salir)
+  - [Parte 4: Botones](#Parte 4: Botones)
 
 ## Requisitos
 
