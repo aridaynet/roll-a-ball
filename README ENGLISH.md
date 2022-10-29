@@ -24,7 +24,7 @@ To be able to use this this project you must have Unity installed
   https://store.unity.com/es#plans-individual
   ```
 
-## [Part 0: Menu]
+## Part 0: Menu
 
 <img src="img/Menu.png" width="400"/>
 
@@ -34,25 +34,25 @@ The first thing we are going to find is the menu to be able to go to the followi
 • Options
 • Exit
 
-## [Part 1: Mini Game]
+## Part 1: Mini Game
 
 <img src="img\roll-a-ball.gif" width="400"/>
 
 Here we have the game. The objective is to catch all the squares, once the counter is at 12 we will go to the next scene where we will have to catch all the cylinders this time with a little more difficulty, using the jumps. Once the game is over, it will show us a game end screen.
 
-## [Part 2: Options]
+## Part 2: Options
 
 <img src="img/Opciones" width="400"/>
 
 Here the game options will be shown to be able to play it.
 
-## [Part 3: Exit]
+## Part 3: Exit
 
 <img src="img/Salir.png" width="400"/>
 
 The only thing this button does is exit the game.
 
-## [Part 4: Buttons]
+## Part 4: Buttons
 
 <img src="img/Botones.png" width="400"/>
 
