@@ -11,11 +11,11 @@ Salir: Salimos del juego.
 
 ### Roll a Ball Tutorial
   - [Requisitos](#Requisitos)
-  - [Parte 0: Menu](#Parte 0: Menu)
-  - [Parte 1: Mini Game](#Parte 1: Mini Game)
-  - [Parte 2: Opciones](#Parte 2: Opciones)
-  - [Parte 3: Salir](#Parte 3: Salir)
-  - [Parte 4: Botones](#Parte 4: Botones)
+  - [Parte 0: Menu](#Parte-0:-Menu)
+  - [Parte 1: Mini Game](#Parte-1:-Mini-Game)
+  - [Parte 2: Opciones](#Parte-2:-Opciones)
+  - [Parte 3: Salir](#Parte-3:-Salir)
+  - [Parte 4: Botones](#Parte-4:-Botones)
 
 ## Requisitos
 
