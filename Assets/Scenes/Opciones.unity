@@ -1285,7 +1285,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1053473918}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
         m_MethodName: Salir
         m_Mode: 1

@@ -1,7 +1,9 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using System;
 using UnityEngine.SceneManagement;
+using System.Threading;
 
 public class PlayerController : MonoBehaviour {
 	
@@ -76,7 +78,7 @@ public class PlayerController : MonoBehaviour {
 	{
 		if(transform.position.y <= .5)
 		{
-			movementJump = 35f;
+			movementJump = 10f;
 		}
 	}
 
@@ -86,10 +88,9 @@ public class PlayerController : MonoBehaviour {
 
 		if (count >= 12) 
 		{
-                    // Set the text value of your 'winText'
-                    winTextObject.SetActive(true);
-							changeScene();
-
+             
+		changeScene();
+            
 		}
 	}
 }

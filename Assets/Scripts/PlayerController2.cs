@@ -61,7 +61,7 @@ public class PlayerController2 : MonoBehaviour {
 
 	private void changeScene()
 	{
-		SceneManager.LoadScene("MiniGame2");
+		SceneManager.LoadScene("Final");
 	}
 
         void OnMove(InputValue value)
@@ -79,17 +79,14 @@ public class PlayerController2 : MonoBehaviour {
 			movementJump = 35f;
 		}
 	}
-
         void SetCountText()
 	{
 		countText.text = "Contador: " + count.ToString();
 
 		if (count >= 12) 
 		{
-                    // Set the text value of your 'winText'
-                    winTextObject.SetActive(true);
-							changeScene();
-
+            //winTextObject.SetActive(true);
+			changeScene();
 		}
 	}
 }
